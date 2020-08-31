@@ -1,0 +1,10 @@
+{
+  "realm": "kerberos",
+  "auth-server-url": "https://sso-sso-temp.apps.ocp44.1624.sandbox1254.opentlc.com/auth/",
+  "ssl-required": "none",
+  "resource": "app-profile-jee-jsp",
+  "credentials": {
+    "secret": "acfcbecf-51bc-461c-97ff-47796a7c4deb"
+  },
+  "confidential-port": 0
+}

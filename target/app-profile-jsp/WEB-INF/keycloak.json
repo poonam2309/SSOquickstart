@@ -1,0 +1,10 @@
+{
+  "realm": "test",
+  "auth-server-url": "https://keycloak-sso-test.cp4i-devops-1589528522-f72ef11f3ab089a8c677044eb28292cd-0000.us-east.containers.appdomain.cloud/auth/",
+  "ssl-required": "external",
+  "resource": "app-profile-jee-jsp",
+  "credentials": {
+    "secret": "1099b6b7-030f-4d5d-a7e3-fd3500aa7617"
+  },
+  "confidential-port": 0
+}
